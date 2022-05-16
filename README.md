@@ -15,8 +15,10 @@ The Process:
 5. Performing RL using DQNA
 
 ### Commands to execute the code
-> if __name__ == '__main__':
->   main()
+'''
+if __name__ == '__main__':
+  main()
+'''
 
 ### Results and Observations
 
